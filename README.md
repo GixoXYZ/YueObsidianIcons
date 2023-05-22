@@ -26,19 +26,19 @@ Folder icons are from [Font Awesome Icons](https://github.com/FortAwesome/Font-A
 
 | icon 1                  | icon 2                      | icon 3                  | icon 4                  | icon 5                    |
 |-------------------------|-----------------------------|-------------------------|-------------------------|---------------------------|
-| ![](FolderAqua.svg)     | ![](FolderOpenAqua.svg)     | ![](CircleAqua.svg)     | ![](SquareAqua.svg)     | ![](TriangleAqua.svg)     |
-| ![](FolderBlue.svg)     | ![](FolderOpenBlue.svg)     | ![](CircleBlue.svg)     | ![](SquareBlue.svg)     | ![](TriangleBlue.svg)     |
-| ![](FolderBrown.svg)    | ![](FolderOpenBrown.svg)    | ![](CircleBrown.svg)    | ![](SquareBrown.svg)    | ![](TriangleBrown.svg)    |
-| ![](FolderDarkGray.svg) | ![](FolderOpenDarkGray.svg) | ![](CircleDarkGray.svg) | ![](SquareDarkGray.svg) | ![](TriangleDarkGray.svg) |
-| ![](FolderGray.svg)     | ![](FolderOpenGray.svg)     | ![](CircleGray.svg)     | ![](SquareGray.svg)     | ![](TriangleGray.svg)     |
-| ![](FolderGreen.svg)    | ![](FolderOpenGreen.svg)    | ![](CircleGreen.svg)    | ![](SquareGreen.svg)    | ![](TriangleGreen.svg)    |
-| ![](FolderMagenta.svg)  | ![](FolderOpenMagenta.svg)  | ![](CircleMagenta.svg)  | ![](SquareMagenta.svg)  | ![](TriangleMagenta.svg)  |
-| ![](FolderOrange.svg)   | ![](FolderOpenOrange.svg)   | ![](CircleOrange.svg)   | ![](SquareOrange.svg)   | ![](TriangleOrange.svg)   |
-| ![](FolderPink.svg)     | ![](FolderOpenPink.svg)     | ![](CirclePink.svg)     | ![](SquarePink.svg)     | ![](TrianglePink.svg)     |
-| ![](FolderPurple.svg)   | ![](FolderOpenPurple.svg)   | ![](CirclePurple.svg)   | ![](SquarePurple.svg)   | ![](TrianglePurple.svg)   |
-| ![](FolderRed.svg)      | ![](FolderOpenRed.svg)      | ![](CircleRed.svg)      | ![](SquareRed.svg)      | ![](TriangleRed.svg)      |
-| ![](FolderTeal.svg)     | ![](FolderOpenTeal.svg)     | ![](CircleTeal.svg)     | ![](SquareTeal.svg)     | ![](TriangleTeal.svg)     |
-| ![](FolderYellow.svg)   | ![](FolderOpenYellow.svg)   | ![](CircleYellow.svg)   | ![](SquareYellow.svg)   | ![](TriangleYellow.svg)   |
+| ![](icons/FolderAqua.svg)     | ![](icons/FolderOpenAqua.svg)     | ![](icons/CircleAqua.svg)     | ![](icons/SquareAqua.svg)     | ![](icons/TriangleAqua.svg)     |
+| ![](icons/FolderBlue.svg)     | ![](icons/FolderOpenBlue.svg)     | ![](icons/CircleBlue.svg)     | ![](icons/SquareBlue.svg)     | ![](icons/TriangleBlue.svg)     |
+| ![](icons/FolderBrown.svg)    | ![](icons/FolderOpenBrown.svg)    | ![](icons/CircleBrown.svg)    | ![](icons/SquareBrown.svg)    | ![](icons/TriangleBrown.svg)    |
+| ![](icons/FolderDarkGray.svg) | ![](icons/FolderOpenDarkGray.svg) | ![](icons/CircleDarkGray.svg) | ![](icons/SquareDarkGray.svg) | ![](icons/TriangleDarkGray.svg) |
+| ![](icons/FolderGray.svg)     | ![](icons/FolderOpenGray.svg)     | ![](icons/CircleGray.svg)     | ![](icons/SquareGray.svg)     | ![](icons/TriangleGray.svg)     |
+| ![](icons/FolderGreen.svg)    | ![](icons/FolderOpenGreen.svg)    | ![](icons/CircleGreen.svg)    | ![](icons/SquareGreen.svg)    | ![](icons/TriangleGreen.svg)    |
+| ![](icons/FolderMagenta.svg)  | ![](icons/FolderOpenMagenta.svg)  | ![](icons/CircleMagenta.svg)  | ![](icons/SquareMagenta.svg)  | ![](icons/TriangleMagenta.svg)  |
+| ![](icons/FolderOrange.svg)   | ![](icons/FolderOpenOrange.svg)   | ![](icons/CircleOrange.svg)   | ![](icons/SquareOrange.svg)   | ![](icons/TriangleOrange.svg)   |
+| ![](icons/FolderPink.svg)     | ![](icons/FolderOpenPink.svg)     | ![](icons/CirclePink.svg)     | ![](icons/SquarePink.svg)     | ![](icons/TrianglePink.svg)     |
+| ![](icons/FolderPurple.svg)   | ![](icons/FolderOpenPurple.svg)   | ![](icons/CirclePurple.svg)   | ![](icons/SquarePurple.svg)   | ![](icons/TrianglePurple.svg)   |
+| ![](icons/FolderRed.svg)      | ![](icons/FolderOpenRed.svg)      | ![](icons/CircleRed.svg)      | ![](icons/SquareRed.svg)      | ![](icons/TriangleRed.svg)      |
+| ![](icons/FolderTeal.svg)     | ![](icons/FolderOpenTeal.svg)     | ![](icons/CircleTeal.svg)     | ![](icons/SquareTeal.svg)     | ![](icons/TriangleTeal.svg)     |
+| ![](icons/FolderYellow.svg)   | ![](icons/FolderOpenYellow.svg)   | ![](icons/CircleYellow.svg)   | ![](icons/SquareYellow.svg)   | ![](icons/TriangleYellow.svg)   |
 
 ---
 
