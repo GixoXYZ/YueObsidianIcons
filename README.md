@@ -11,6 +11,17 @@ Folder icons are from [Font Awesome Icons](https://github.com/FortAwesome/Font-A
 
 ---
 
+## Installation:
+- Clone this repo using `git clone https://github.com/thegixo/YueObsidianIcons.git`
+- Install and enable [Icon Folder](https://github.com/FlorianWoelki/obsidian-icon-folder) plugin
+- Open [Icon Folder](https://github.com/FlorianWoelki/obsidian-icon-folder) plugin options
+- Find "Add custom icon pack" under "Icon Packs"
+- Choose a name and click on "Add icon pack"
+- Find your icon pack in the list
+- Click on plus sign and select icons from the directory you cloned this repo
+
+---
+
 ## Icons:
 
 | icon 1                  | icon 2                      | icon 3                  | icon 4                  | icon 5                    |
