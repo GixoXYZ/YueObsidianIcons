@@ -1,6 +1,6 @@
 # Yue Obsidian Icons
 
-SVG icons meant to be used by Obsidian's "Icon Folder" plugin.
+SVG icons meant to be used by Obsidian's [Icon Folder](https://github.com/FlorianWoelki/obsidian-icon-folder) plugin.
 
 It's recommended to be used with [Font Awesome Icons](https://github.com/FortAwesome/Font-Awesome) and [YueTheme](https://github.com/thegixo/YueObsidian).
 
@@ -18,7 +18,7 @@ Folder icons are from [Font Awesome Icons](https://github.com/FortAwesome/Font-A
 - Find "Add custom icon pack" under "Icon Packs"
 - Choose a name and click on "Add icon pack"
 - Find your icon pack in the list
-- Click on plus sign and select icons from the directory you cloned this repo
+- Click on plus sign and select svg icons from the directory you cloned this repo in
 
 ---
 
